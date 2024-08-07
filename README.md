@@ -5,3 +5,4 @@ This project provides a detailed analysis of bank customer data, examining distr
 
 
 https://i.imgur.com/wt5bZHC.png
+[![Example](https://i.imgur.com/wt5bZHC.png)](https://public.tableau.com/app/profile/hardik.pansuriya/viz/BankCustomersAnalysisByRegion/Dashboard1)
